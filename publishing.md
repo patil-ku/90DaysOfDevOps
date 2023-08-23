@@ -1,6 +1,6 @@
 ## Steps to create eBook 
 The idea is to take this repository at a point in time and self-publish. 
-
+ 
 All of the content is written in markdown, the plan will be intitially to have an eBook but also a printed version. The ideal solution will involve getting these markdown files to PDF, EPUB and MOBI formats. Whilst also leveraging Microsoft Word as a way to add additional front cover and contents pages. 
 
 ### Grammar and Spelling check 
