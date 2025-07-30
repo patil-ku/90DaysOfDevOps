@@ -1,8 +1,8 @@
 ---
-title: '#90DaysOfDevOps - The Open Source Workflow - Day 41'
+title: "#90DaysOfDevOps - The Open Source Workflow - Day 41"
 published: false
 description: 90DaysOfDevOps - The Open Source Workflow
-tags: 'DevOps, 90daysofdevops, learning'
+tags: "DevOps, 90daysofdevops, learning"
 cover_image: null
 canonical_url: null
 id: 1048806
@@ -16,7 +16,7 @@ When we went through the GitHub fundamentals we went through the process of fork
 
 ## Fork a Project
 
-The first thing we have to do is find a project we can contribute to. I have recently been presenting on the [Kanister Project](https://github.com/kanisterio/kanister) and I would like to share my presentations that are now on YouTube to the main readme.mdfile in the project.
+The first thing we have to do is find a project we can contribute to. I have recently been presenting on the [Kanister Project](https://github.com/kanisterio/kanister) and I would like to share my presentations that are now on YouTube to the main readme.md file in the project.
 
 First of all, we need to fork the project. Let's run through that process. I am going to navigate to the link shared above and fork the repository.
 
@@ -26,7 +26,7 @@ We now have our copy of the whole repository.
 
 ![](Images/Day41_Git2.png)
 
-For reference on the Readme.mdfile the original Presentations listed are just these two so we need to fix this with our process.
+For reference on the readme.md file the original Presentations listed are just these two so we need to fix this with our process.
 
 ![](Images/Day41_Git3.png)
 
@@ -42,7 +42,7 @@ We have our project local so we can open VSCode or an IDE or text editor of your
 
 ![](Images/Day41_Git5.png)
 
-The readme.mdfile is written in markdown language and because I am modifying someone else's project I am going to follow the existing project formatting to add our content.
+The readme.md file is written in markdown language and because I am modifying someone else's project I am going to follow the existing project formatting to add our content.
 
 ![](Images/Day41_Git6.png)
 
@@ -76,7 +76,7 @@ Next, we hit that contribute button highlighted above. We see the option to "Ope
 
 ## Open a pull request
 
-There is quite a bit going on in this next image, top left you can now see we are in the original or the master repository. then you can see what we are comparing and that is the original master and our forked repository. We then have a create pull request button which we will come back to shortly. We have our single commit but if this was more changes you might have multiple commits here. then we have the changes we have made in the readme.mdfile.
+There is quite a bit going on in this next image, top left you can now see we are in the original or the master repository. then you can see what we are comparing and that is the original master and our forked repository. We then have a create pull request button which we will come back to shortly. We have our single commit but if this was more changes you might have multiple commits here. then we have the changes we have made in the readme.md file.
 
 ![](Images/Day41_Git12.png)
 
@@ -109,6 +109,10 @@ I am going to publish this before the merge and pull requests are accepted so ma
 3. Push the changes to your forked repository
 4. Create a PR that I will see and approve.
 5. I will think of some sort of prize
+
+Here is a picture of the succesful PR:
+
+![](Images/Day41_Git16.png)
 
 This then wraps up our look into Git and GitHub, next we are diving into containers which starts with a big picture look into how, and why containers and also a look into virtualisation and how we got here.
 
